@@ -1,3 +1,5 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-img/projectImg.png
+
+
+![Proje resim](img/projectImg.png)
